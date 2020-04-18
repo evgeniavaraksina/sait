@@ -22,17 +22,16 @@
 }
 
 .container {
-  max-width: 928px;
-  margin: 0 auto;
-  padding: 0 16px;
+ 
+  text-align: center;
 }
 
 .main-header{
-  background-color: #FFFF00;
+  background-color: mediumpurple;
 }
 .main-header a {
   margin-left: 56px;
-  color: #008080;
+  color: wheat;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -49,13 +48,13 @@
 
 .main-footer {
   padding: 40px 0;
-  background-color: #FFFF00;
+  background-color: mediumpurple;
 }
 
 
 .main-footer a {
   margin-left: 56px;
-  color: #008080;
+  color: wheat;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -69,4 +68,8 @@
 .footer-phone {
   padding-left: 25px;
   background-image: url("imgsait/icon-phone.svg");
+}
+
+.logo-container {
+  text-align: left;
 }
